@@ -1,5 +1,5 @@
 ## Adafruit MPR121 Capacitive Touch Shield PCB
-<a href="http://www.adafruit.com/products/2024"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/2024"><img src="assets/2024.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 This touch-able add on shield for Arduinos will inspire your next interactive project with 12 capacitive touch sensors. Capacitive touch sensing works by detecting when a person (or animal) has touched one of the sensor electrodes. Capacitive touch sensing used for stuff like touch-reactive tablets and phones, as well as control panels for appliances, which is where you may have used it before. This shield allows you to create electronics that can react to human touch, with up to 12 individual sensors.
@@ -18,5 +18,5 @@ Adafruit invests time and resources providing this open source design, please su
 All text above must be included in any redistribution
 
 Designed by Limor Fried/Ladyada for Adafruit Industries.
-Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution.
 See license.txt for additional information.
